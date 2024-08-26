@@ -1,0 +1,26 @@
+.container {
+  background-color: #efefef;
+  height: 500vh;
+  font-family: "DM sans";
+  padding-left: 2vw;
+  padding-right: 2vw;
+  padding-top: 2vh;
+}
+
+.topbar {
+  background-color: #ffffff;
+  box-shadow: 66px 22px 42px 0px rgba(199, 199, 199, 0.05),
+    29px 10px 31px 0px rgba(199, 199, 199, 0.09),
+    7px 2px 17px 0px rgba(199, 199, 199, 0.1);
+  height: 5vh;
+  text-align: center;
+
+  padding-bottom: 1vh;
+  font-family: "DM sans";
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.main {
+  font-family: "DM sans";
+}
